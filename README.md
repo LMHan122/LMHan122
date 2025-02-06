@@ -7,13 +7,12 @@
         <a href="https://lesliehanson.dev/">
             <img src="https://img.shields.io/badge/Portfolio-slateblue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
         </a>
+    <!--- Commenting out this section unitl error can be fixed
         <a href="mailto:lesliemhanson@gmail.com">
             <img src="https://img.shields.io/badge/email-mediumaquamarine?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
         </a>
+    -->
     </div>
-    
-
-
 </div>
 
 
