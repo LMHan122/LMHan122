@@ -10,8 +10,8 @@
         <a href="mailto:lesliemhanson@gmail.com">
             <img src="https://img.shields.io/badge/email-mediumaquamarine?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
         </a>
-
     </div>
+    
 
 
 </div>
@@ -21,7 +21,7 @@
 
 
 
-## Hi there 👋
+
 
 <!--
 **LMHan122/LMHan122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
