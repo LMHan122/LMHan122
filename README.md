@@ -19,7 +19,7 @@
 
 ### About Me:
 
-:wave: I am recent graduate :mortar_board: seeking a Data Analyst role. 
+:wave: I am recent graduate :mortar_board: seeking a Data Analyst role. I love board games :game_die: and Japanese novels :japanese_castle:.
 
 <b> I'm currently working on: </b>
 
@@ -44,10 +44,9 @@ enhancing the customization by adding more yaml files, and exploring ways to inc
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title='postgres' alt='postgres' width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS"  alt="AWS" width="40" height="40"/>&nbsp;
 
-
-
-
 </div>
+
+
 
 
 
