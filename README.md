@@ -13,14 +13,31 @@
     </div>
 </div>
 
-<div id="about me" align="center">
+<div id="about me">
 
 ---
 
 ### About Me:
 
-:wave: I am recent graduate seeking a Data Analyst role. 
-- 
+:wave: I am recent graduate :mortar_board: seeking a Data Analyst role. 
+
+<b> I'm currently working on: </b>
+
+- Editing my older projects to correct a lot of my beginner mistakes... it hurts :persevere:. 
+
+- For my most recent project, :money_with_wings: [ML Analysis of Bank Fraud](https://github.com/LMHan122/Machine_Learning_Analysis_of_Bank_Fraud) :money_with_wings:, I'm working on the project documentation :scroll:, 
+enhancing the customization by adding more yaml files, and exploring ways to incorporate CI/CD. 
+
+- Having completed several projects using Python and SQL, I'm now leveling up my R and Power BI skills.
+</div>
+
+<div id="languages">
+
+### Languages and Tools:
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"  alt="AWS" width="40" height="40"/>&nbsp;
+
 
 
 
