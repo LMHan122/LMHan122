@@ -13,6 +13,19 @@
     </div>
 </div>
 
+<div id="about me" align="center">
+
+---
+
+### About Me:
+
+:wave: I am recent graduate seeking a Data Analyst role. 
+- 
+
+
+
+</div>
+
 
 
 
