@@ -23,10 +23,10 @@
 
 <b> I'm currently working on: </b>
 
-- Editing my older projects to correct a lot of my beginner mistakes... it hurts :persevere:. 
+- Editing my older projects to correct a lot of my beginner mistakes:skull_and_crossbones:... it hurts :persevere:. 
 
 - For my most recent project, :money_with_wings: [ML Analysis of Bank Fraud](https://github.com/LMHan122/Machine_Learning_Analysis_of_Bank_Fraud) :money_with_wings:, I'm working on the project documentation :scroll:, 
-enhancing the customization by adding more yaml files, and exploring ways to incorporate CI/CD. 
+enhancing the customization by adding more yaml files :pencil:, and exploring ways to incorporate CI/CD :hammer_and_wrench:. 
 
 - Having completed several projects using Python and SQL, I'm now leveling up my R and Power BI skills.
 </div>
